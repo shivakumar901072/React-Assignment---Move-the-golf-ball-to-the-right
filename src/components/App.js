@@ -11,7 +11,7 @@ class App extends Component {
         };
         this.renderBallOrButton = this.renderBallOrButton.bind(this)
         this.buttonClickHandler = this.buttonClickHandler.bind(this)
-        this.arrowKeyPressed = this.arrowKeyPressed.bind(this);
+        this.arrowKeyPressed = this.arrowKeyPressed.bind(this)
     };
 
     buttonClickHandler() {
